@@ -22,8 +22,7 @@ A responsive Netflix-inspired website interface built using HTML, CSS, and JavaS
 - Font Awesome
 
 ## 📸 Website Preview
-
-<!-- Add your website screenshot here later -->
+![Netflix Clone Website Preview](Screenshot%202026-10-11%20201919.png)
 
 ## 🎯 Project Purpose
 
