@@ -4,7 +4,7 @@ A responsive Netflix-inspired website interface built using HTML, CSS, and JavaS
 
 ## 🌐 Live Demo
 
-[Visit Netflix Clone](https://nikhilsharma28.github.io/netflix-clone/)
+[Visit Netflix Clone](https://nikhilsharma28.github.io/movie-app/)
 
 ## ✨ Features
 
